@@ -5,7 +5,7 @@
 
 Type a city in search bar and find out its quality life score!
 
-Data come from the [Teleport API](https://developers.teleport.org/api/)
+Data come from the [Teleport API](https://developers.teleport.org/api/).
 
 ## Languages
 
