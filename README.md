@@ -15,7 +15,7 @@ Data come from the [Teleport API](https://developers.teleport.org/api/)
 
 ## Try it!
 
-You can try the application [here!](https://app.netlify.com/sites/lifestyle-app-damy-ray)
+You can try the application [here!](https://lifestyle-app-damy-ray.netlify.app)
 ## Authors
 
 - [@damy-ray](https://github.com/damy-ray)
